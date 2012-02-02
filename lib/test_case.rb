@@ -357,5 +357,4 @@ class TestCase
 
     return result
   end
-
 end
